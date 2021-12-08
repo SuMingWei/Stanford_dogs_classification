@@ -4,12 +4,12 @@
 Build your own model, prepare the dataset and train the model on the classification dataset
 
 ## Python Environments
-• torch == 1.7.1
-• torchvision == 0.8.2 • scikit-learn
-• numpy
-• jupyter
-• torchviz
-• Matplotlib
+* torch == 1.7.1
+* torchvision == 0.8.2 • scikit-learn
+* numpy
+* jupyter
+* torchviz
+* Matplotlib
 
 ```bash=
 $ pip install -r requirements.txt
